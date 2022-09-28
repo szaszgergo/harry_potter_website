@@ -1,0 +1,23 @@
+body{
+    background-color:  #AE8FCD;
+    
+    margin: auto;
+    padding: 10px;
+
+}
+
+h1{
+    font-weight: bold;
+    text-shadow: black;
+    text-transform: uppercase;
+    margin-left: 10px;
+    padding: 5px;
+    text-decoration: underline;
+}
+#asdagzsdv{
+    box-shadow: black 10px 10px;
+}
+
+div{
+    border-radius: 5px;
+}
