@@ -1,0 +1,123 @@
+body{
+    background-color:  #C796C7;
+    margin: auto;
+    padding: 10px;
+}
+
+/* SZAMLAKLO  */
+
+.nav-link{
+    color:#C796C7 ;
+}
+a{
+    color:#C796C7 ;
+}
+a:hover :active {
+    color:#C796C7 ;
+}
+.dropdown-menu{
+    background-color: #734C4C;
+    border: solid black 2px;
+}
+.dropdown-item{
+    color: #C796C7;
+}
+
+#szamlalo{
+    font-family: "Poppins",sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    overflow: hidden;
+    margin-top: -40px;
+    
+}
+
+.h2, h2{
+    font-size: calc(1rem );
+}
+h3{
+    font-weight: normal;
+    font-size: 40px;
+    margin:  15px;
+    text-decoration: underline;
+    padding: 10px;
+}
+.countdown{
+    display: flex;
+    transform: scale(2);
+    border: solid black 2px;
+    margin: 5px;
+
+}
+small{
+    font-weight: bold;
+}
+.time{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    
+}
+.time h2{
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 1;
+    margin: 0 0 1px;
+}
+
+
+/* VEGE */
+
+
+
+#menusor{
+    width: 60%;
+    padding: 5px;
+    margin: 5px;
+    
+    border: solid black 1px ;
+    background-color: #734C4C;
+}
+span{
+    border-radius: solid gray 5px;
+}
+h1{
+    font-weight: bold;
+    text-shadow: black;
+    text-transform: uppercase;
+    margin-left: 10px;
+    padding: 5px;
+    text-decoration: underline;
+    font-style: italic;
+}
+#szoveg{
+    box-shadow: black 5px 5px;
+    border: solid black 2px;
+    
+}
+
+div{
+    border-radius: 5px;
+}
+#kepek{
+    margin-top: 5px;
+    border-radius: 2px;
+}
+.item, img{
+    height: 100% !important;
+    width:  100% !important;
+    border: 1px solid black;
+}
+nav{
+    border-radius: 5px;
+    
+}
+.carousel-item{
+    height: 600px;
+}
