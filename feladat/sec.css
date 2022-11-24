@@ -225,7 +225,7 @@ a:hover :active {
     color:#C796C7 ;
 }
 .dropdown-menu{
-    background-color: #734C4C;
+    background-color:#C796C7 ;
     border: solid black 2px;
 }
 .dropdown-item{
@@ -237,5 +237,5 @@ a:hover :active {
     margin: 5px;
     
     border: solid black 1px ;
-    background-color: #734C4C;
+    background-color: #C796C7;
 }
