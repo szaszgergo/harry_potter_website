@@ -225,17 +225,21 @@ a:hover :active {
     color:#C796C7 ;
 }
 .dropdown-menu{
-    background-color:#C796C7 ;
+    background-color:#f7e7ce ;
     border: solid black 2px;
 }
 .dropdown-item{
     color: #C796C7;
 }
 #menusor{
-    width: 60%;
+    width:71%;
     padding: 5px;
     margin: 5px;
     
     border: solid black 1px ;
-    background-color: #C796C7;
+    background-color: #f7e7ce;
+}
+nav{
+    border-radius: 5px;
+    
 }
