@@ -49,7 +49,7 @@ h3{
 .countdown{
     display: flex;
     transform: scale(2);
-    border: solid black 2px;
+    
     margin: 5px;
 
 }
